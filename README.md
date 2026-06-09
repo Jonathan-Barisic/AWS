@@ -3,7 +3,7 @@
 </p>
 
 <h1>AWS</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+This project covers my experience deploying Active Directory on AWS. This project will be in 3 parts: 1. deploying Active Directory 2. Creating users 3. Using group policy and managing accounts  <br />
 
 
 <h2>Video Demonstration</h2>
@@ -12,9 +12,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- AWS (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
+- Powershell
+- Active Directory
+- Group Policy
 
 <h2>Operating Systems Used </h2>
 
