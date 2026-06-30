@@ -36,7 +36,8 @@ This project covers my experience deploying Active Directory on AWS. This projec
 </p>
 <p>
 The first step is to set up the machine that will be the domain controller.
-navagate 
+In AWS, navigate to EC2 > Instances > Launch Instance 
+name the instance and select Microsoft Windows Server Base as the OS image
   
 </p>
 <br />
@@ -45,24 +46,22 @@ navagate
 <img src="https://i.imgur.com/IKxiA5e.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Create a key pair
+  Name the key pair and select the .pem file format, then create the key
 </p>
 <br />
 
 <p>
 <img src="https://i.imgur.com/A7Z1Aed.png" height="80%" width="80%" alt="3"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+< p> All other settings can be left at default </p>
 <br />
 
 <p>
 <img src="https://i.imgur.com/u8xWfwa.png" height="80%" width="80%" alt="4"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Check that all the settings are correct and launch the instance</p>
 <br />
 
 <p>
