@@ -76,55 +76,28 @@ now that the instance is set up, we can connect to it. Click on the connect butt
 <img src="https://i.imgur.com/CJE26d5.png" height="80%" width="80%" alt="6"/>
 </p>
 <p>
-  Select the RDP client. Click on Get Password and upload the key pair file that was created earlier. Get the decrypted password and then download the Remote Desktop file.
+  Select the RDP client. Click on Get Password
 </p>
 <br />
-
 <p>
-<img src="https://i.imgur.com/jO9j7n5.png" height="80%" width="80%" alt="7"/>
+<img src="https://i.imgur.com/GAEkUqD.png" height="80%" width="80%" alt="9"/>
 </p>
 <p>
-Log in to the instance. The user by default is Administrator, and paste the password that you decrypted earlier.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/fG0ZfvF.png" height="80%" width="80%" alt="8"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/y3QJIfU.png" height="80%" width="80%" alt="9"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/SBp0SVR.png" height="80%" width="80%" alt="10"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+upload the key pair file that was created earlier. Get the decrypted password and then download the Remote Desktop file</p>
 <br />
 
 <p>
 <img src="https://i.imgur.com/jq7AIhe.png" height="80%" width="80%" alt="11"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Log in to the instance. The user by default is Administrator, and paste the password that you decrypted earlier.</p>
 <br />
 
 <p>
 <img src="https://i.imgur.com/4jteLff.png" height="80%" width="80%" alt="12"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now you should be successfully connected to the instance through RDP
 </p>
 <br />
 
@@ -132,7 +105,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/3NFIFpO.png" height="80%" width="80%" alt="13"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now use Windows Search to open Server Manager
 </p>
 <br />
 
